@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+.root {
+-fx-background: #e1e8f4;
+-fx-font-family: Nunito;
+-fx-font-size: 20px;
+
+}
+
+
+#winBackground {
+-fx-background-color: #d8ffdb;
+}
+
+.txtField {
+
+}
+
+#btnStart {
+-fx-background-color: #8E97A7;
+-fx-text-fill: white;
+}
+
+#winner {
+-fx-font-size: 35px;
+}
+
+#box {
+-fx-spacing: 30px;
+
+}
